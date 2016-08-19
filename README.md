@@ -1,2 +1,7 @@
 # Gulp
-css,js,img,less--compress,merge
+### myDir:
+
+project-src-css/html/images/js
+            
+
+a gulp demo,but remain to be perfect.
